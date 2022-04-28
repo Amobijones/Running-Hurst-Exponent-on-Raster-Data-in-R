@@ -1,0 +1,1 @@
+# Running-Hurst-Exponent-on-Raster-Data-in-R
